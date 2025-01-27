@@ -1,4 +1,4 @@
-**Spotify API**
+# Spotify API
 
 My most entertaining work with API,
 
